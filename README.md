@@ -1,6 +1,6 @@
 # MyList
 
-### After [Animixplay.to](https://animixplay.to) got shut down i have to save my watchlist of my anime somewhere so i created an app which fetches the data from the json [api](https://github.com/ewwadii/WatchListAPI) which contains my anime whatchlist form animixplay.to and displays it. though it is a very simple app i'm going to make it more cool in future because im currently learing react native.
+### After [Animixplay.to](https://animixplay.to) got shut down i have to save my watchlist of my anime somewhere so i created an app which fetches the data from the json [api](https://github.com/ewwadii/WatchListAPI) which contains my anime whatchlist form animixplay.to and displays it. though it is a very simple app i'm going to make it more cool in future because im currently learning react native.
 
 ### 
 ### 
